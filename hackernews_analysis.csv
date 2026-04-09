@@ -1,0 +1,8 @@
+metric,value
+mean_score,311.0
+median_score,198.0
+max_score,1836.0
+min_score,12.0
+mean_comments,138.12
+max_comments,432.0
+score_comment_correlation,0.6
