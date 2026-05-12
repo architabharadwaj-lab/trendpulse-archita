@@ -5,6 +5,9 @@ A 4-script Python data pipeline that fetches, cleans, analyses and visualises tr
 It follows a step-by-step workflow:
 Data Collection → Cleaning → Analysis → Visualization
 
+🛠️ Tech Stack
+Python, Requests, Pandas, NumPy, Matplotlib
+
 📂 Files
 * task1.py → Fetch data and save as JSON
 * task2.py → Clean data and convert to CSV
@@ -26,5 +29,12 @@ Charts
 * Cleaned and structured Hacker News data
 * Basic trend analysis
 * Visual insights using charts
+
+📈 Key Learnings
+* Working with APIs and JSON data
+* Data cleaning and preprocessing using Pandas
+* Basic statistical analysis using NumPy
+* Data visualization using Matplotlib
+* Building a simple real-world data pipeline
 
 ⭐ Built as a mini data analysis project using Python
