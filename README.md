@@ -30,6 +30,8 @@ Charts
 * Basic trend analysis
 * Visual insights using charts
 
+Live Demo : https://drive.google.com/file/d/18SDbuM09ESv7yDEOl_xqmanhKdTBYq4I/view?usp=sharing
+
 📈 Key Learnings
 * Working with APIs and JSON data
 * Data cleaning and preprocessing using Pandas
