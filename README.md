@@ -12,19 +12,19 @@ Data Collection → Cleaning → Analysis → Visualization
 * task4.py → Data visualization
 
 Data Files
-hackernews_trending.json → raw data
-hackernews_clean.csv → cleaned data
-hackernews_analysis.csv → analysis results
+* hackernews_trending.json → raw data
+* hackernews_clean.csv → cleaned data
+* hackernews_analysis.csv → analysis results
 
 Charts
-chart1_top10_scores.png
-chart2_score_distribution.png
-chart3_score_vs_comments.png
-chart4_top5_comments.png
+* chart1_top10_scores.png
+* chart2_score_distribution.png
+* chart3_score_vs_comments.png
+* chart4_top5_comments.png
 
 📈 Outcome
-Cleaned and structured Hacker News data
-Basic trend analysis
-Visual insights using charts
+* Cleaned and structured Hacker News data
+* Basic trend analysis
+* Visual insights using charts
 
 ⭐ Built as a mini data analysis project using Python
